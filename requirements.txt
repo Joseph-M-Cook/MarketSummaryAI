@@ -1,0 +1,6 @@
+requests
+selenium
+beautifulsoup4
+Pillow
+urllib3
+openai
